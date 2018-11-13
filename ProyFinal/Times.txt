@@ -1,0 +1,6 @@
+C Serial = 2087.02 ms
+C OpenMP = 542.57 ms
+C++ TBB  = 692.50 ms
+Java Serial = 26505.80 ms
+Java Thread = 8328.30 ms
+Java ForkJoin = 609.8 ms
